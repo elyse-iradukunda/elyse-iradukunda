@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm ** Elyse Iradukunda**!  🚀💻
+# 👋 Hey there, I'm Elyse Iradukunda!  🚀💻
 
 <p align="left">
   A passionate junior developer who loves crafting beautiful web experiences with React ⚛️  
