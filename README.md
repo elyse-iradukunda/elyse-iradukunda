@@ -37,7 +37,7 @@
 
 <p align="left">
   
-  <a href="mailto:your.ellycreativity8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your.ellycreativity8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />ellycreativity8@gmail.com</a>
  </p>
 <p align="left">
   <a syle='text-decloration:none; color:white;' href="https://wa.me/yourphonenumber"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" /> +250 798454108</a>
