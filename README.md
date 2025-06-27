@@ -39,3 +39,15 @@
   
   <a href="mailto:your.ellycreativity8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </p>
+<p align="left">
+  <a href="https://wa.me/yourphonenumber"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" /> +250 0798454108</a>
+</p>
+<p align="left">
+  <a href="https://instagram.com/ellyse_photographer"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />Ellyse_photographer</a>
+</p>
+
+
+
+
+
+
