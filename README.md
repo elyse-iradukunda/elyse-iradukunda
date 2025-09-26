@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Tools
 
 **🌐 Front-End:**
-    ⚛️ React  |  📜 JavaScript  |  🧱 HTML5  |  🎨 CSS3
+    ⚛️ React  |  📜 JavaScript  |  🧱 HTML5  |  🎨 CSS3 | hph 🐘 | Java ☕
 
 **🧰 Tools & Platforms:**
     🐙 Git & GitHub  |  🧑‍💻 VS Code  |  📦 npm  |  🔧 Webpack
@@ -29,7 +29,6 @@
 📘 **Learning:**
 
 * 🧠 Advanced React patterns
-* 📦 Redux for state management
 * 🔙 Node.js basics for backend integration
 
 ---
