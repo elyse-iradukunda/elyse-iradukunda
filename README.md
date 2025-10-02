@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-🎯 Junior **Front-End Developer** focused on building sleek, responsive, and user-friendly web apps.
+🎯 Junior **Front-End Developer** focused on building  responsive, and user-friendly web apps.
 🚀 Always curious, always learning — diving deep into modern web tech & best practices.
 💡 Excited to contribute to open source and collaborate on cool projects!
 
