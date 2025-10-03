@@ -30,6 +30,9 @@
 
 * 🧠 Advanced React patterns
 * 🔙 Node.js basics for backend integration
+* 🐘 Php advance 
+* ☕ Java basic
+* 💽 Oracle Database Administration
 
 ---
 ## 📫 Connect with Me
