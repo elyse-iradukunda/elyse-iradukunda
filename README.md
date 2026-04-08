@@ -23,11 +23,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Back-End**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Servlet](https://img.shields.io/badge/Java_Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Tools & Platforms**
@@ -47,7 +50,7 @@
 | ⚛️ React | Advanced patterns & performance optimization |
 | 🟢 Node.js | Backend development & REST APIs |
 | 🐘 PHP | Advanced concepts & frameworks |
-| ☕ Java | Core fundamentals & backend development |
+| ☕ Java | Servlets, Spring Boot & backend architecture |
 | 🗄️ Oracle DB | Database administration & SQL |
 
 ---
@@ -55,8 +58,8 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elyse-iradukunda&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyse-iradukunda&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
@@ -81,5 +84,5 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elyse-iradukunda&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
