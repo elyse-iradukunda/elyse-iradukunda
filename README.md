@@ -66,6 +66,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyse-iradukunda&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=elyse-iradukunda&theme=radical&hide_border=true" height="150" />
+</p>
+
 ---
 
 ## Connect with Me
