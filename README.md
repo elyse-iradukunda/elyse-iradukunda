@@ -49,6 +49,13 @@
   <a href="https://instagram.com/ellyse_photographer"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />Ellyse_photographer</a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/elyse-iradukunda">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    Elyse Iradukunda
+  </a>
+</p>
+
 
 
 
