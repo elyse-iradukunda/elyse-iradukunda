@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://github.com/elyse-iradukunda.png" width="120" alt="Elyse Iradukunda" style="border-radius: 50%;" />
+</p>
+
 # Hi, I'm Elyse Iradukunda 👩‍💻
 
 <p align="left">
