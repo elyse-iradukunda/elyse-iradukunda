@@ -1,63 +1,85 @@
-# 👋 Hey there, I'm Elyse Iradukunda!  🚀💻
+# Hi, I'm Elyse Iradukunda 👩‍💻
 
 <p align="left">
-  A passionate junior developer who loves crafting beautiful web experiences with React ⚛️  
+  A passionate junior developer crafting beautiful, responsive web experiences with React and modern web technologies.
 </p>
 
 ---
 
-## ✨ About Me
+## About Me
 
-🎯 **FullStack Developer** focused on building  responsive, and user-friendly web apps.
-🚀 Always curious, always learning — diving deep into modern web tech & best practices.
-💡 Excited to contribute to open source and collaborate on cool projects!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**🌐 Front-End:**
-    ⚛️ React  |  📜 JavaScript  |  🧱 HTML5  |  🎨 CSS3 | hph 🐘 | Java ☕
-
-**🧰 Tools & Platforms:**
-    🐙 Git & GitHub  |  🧑‍💻 VS Code  |  📦 npm  |  🔧 Webpack
+- 🎯 **Full-Stack Developer** building responsive, user-friendly web applications
+- 🚀 Always curious, always learning — diving deep into modern web tech and best practices
+- 💡 Excited to contribute to open source and collaborate on meaningful projects
+- 📸 Also a passionate photographer — creativity runs through everything I do
 
 ---
 
-## 🌱 Currently Leveling Up
+## Tech Stack
 
-📘 **Learning:**
+**Front-End**
 
-* 🧠 Advanced React patterns
-* 🔙 Node.js basics for backend integration
-* 🐘 Php advance 
-* ☕ Java basic
-* Backend using java
-* 💽 Oracle Database Administration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Back-End**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 ---
-## 📫 Connect with Me
+
+## Currently Learning
+
+| Area | Topics |
+|------|--------|
+| ⚛️ React | Advanced patterns & performance optimization |
+| 🟢 Node.js | Backend development & REST APIs |
+| 🐘 PHP | Advanced concepts & frameworks |
+| ☕ Java | Core fundamentals & backend development |
+| 🗄️ Oracle DB | Database administration & SQL |
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  
-  <a href="mailto:your.ellycreativity8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />ellycreativity8@gmail.com</a>
- </p>
-<p align="left">
-  <a syle='text-decloration:none; color:white;' href="https://wa.me/yourphonenumber"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" /> +250 798454108</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
-<p align="left">
-  <a href="https://instagram.com/ellyse_photographer"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />Ellyse_photographer</a>
-</p>
+
+---
+
+## Connect with Me
 
 <p align="left">
+  <a href="mailto:ellycreativity8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/elyse-iradukunda">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-    Elyse Iradukunda
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://instagram.com/ellyse_photographer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <a href="https://wa.me/250798454108">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
+---
 
-
-
-
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
